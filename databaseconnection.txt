@@ -1,0 +1,13 @@
+copy blood file to xampp/htdocs
+go to http://localhost/phpmyadmin/
+import blood.zip file
+go to  http://localhost/blood/
+
+
+database name : blood_group
+table name: blood
+column :name
+       address
+       gender
+       blood
+       age 
