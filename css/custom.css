@@ -1,0 +1,82 @@
+a:link {
+    color: black;
+    /*background-color: none;*/
+    text-decoration: none;
+}
+
+.header-img {
+
+    background: url('../dna.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: auto;
+    min-height: 460px;
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.header-img p {
+    font-weight: 100;
+    font-size: 18px;
+}
+
+.form-group {
+    padding-right: 20px;
+}
+
+.btn-danger {
+    background-color: #e74c3c;
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.red-background {
+    background-color: #e74c3c;
+    min-height: 260px;
+    height: auto;
+    padding: 10px
+}
+
+.btn-default {
+    color: #e74c3c;
+;
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-size: 22px;
+    font-weight: 700;
+    background-color: #fff;
+}
+
+.btn-default:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+.center-aligned {
+    display: table;
+    margin: 0 auto;
+}
+
+.margin10px {
+    margin: 10px;
+}
+
+.card {
+    width: 350px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.card h3,
+img {
+    padding-bottom: 20px;
+    align-self: center;
+}
